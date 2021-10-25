@@ -6,19 +6,25 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./styles/main.css">
-  <title>modulo-2-evaluacion-intermedia-tor3m</title>
+  <title>Guess a random number</title>
 </head>
 
 <body>
   <main>
-    <h1 class="title js-title">Adivina el número</h1>
-    <form action="" class="form js-form">
-      <label for="" class="title js-subtitle">Introduce el número</label>
-      <input type="number" class="js-writeNumber" name="numbers" id="numbers">
-      <input type="button" class="js-button" name="button" id="button" value="Prueba">
-      <p class="result js-result">Pista: Escribe el número y dale a Prueba</p>
-      <p class="result js-try"> Número de intentos: 0 </p>
-    </form>
+    <div>
+      <img class="image-guess" src="./images/guess.png" alt="image-guess">
+    </div>
+    <div class="container">
+      <h1 class="title js-title">Adivina el número ¿?</h1>
+      <form action="" class="form js-form">
+        <label for="" class="subtitle js-subtitle">Introduce el número : </label>
+        <input type="text" placeholder="Escribe un número entre 1 y 100" class="writeNumber js-writeNumber"
+          name="numbers" id="numbers">
+        <input type="button" class="button js-button" name="button" id="button" value="Prueba">
+        <p class="result js-result">Pista: Escribe el número y dale a Prueba</p>
+        <p class="counter js-counter"> Número de intentos: 0 </p>
+      </form>
+    </div>
   </main>
   <script src="./js/main.js"></script>
 </body>
