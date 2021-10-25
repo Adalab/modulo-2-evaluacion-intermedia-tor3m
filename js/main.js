@@ -21,13 +21,13 @@ function counterNumber() {
 function handlerconditionalsbutton() {
   const putNumber = parseInt(inputValue.value);
   if (putNumber <= 0 || putNumber >= 100) {
-    resultElement.innerHTML = `El número debe estar entre 1 y 100`;
+    resultElement.innerHTML = `El número debe estar entre 1 y 100 🤕`;
   } else if (putNumber > randonNumber) {
-    resultElement.innerHTML = "Demasiado alto";
+    resultElement.innerHTML = "Demasiado alto 🤪⬇";
   } else if (putNumber < randonNumber) {
-    resultElement.innerHTML = "Demasiado bajo";
+    resultElement.innerHTML = "Demasiado bajo 🙄⬆";
   } else if (putNumber === randonNumber) {
-    resultElement.innerHTML = `Has ganado campeona!!!`;
+    resultElement.innerHTML = `😃Has ganado campeona👏👏👏🥳`;
   }
 }
 
