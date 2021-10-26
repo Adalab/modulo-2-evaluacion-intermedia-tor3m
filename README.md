@@ -1,9 +1,8 @@
-Evaluación Intermedia Modulo 2 👋
+
 
 ![guess](https://user-images.githubusercontent.com/81690198/138865782-cca624e6-da55-4b11-91a4-a36313c1aae4.png)
 
-
-Hola! Está es mi evaluación intermedia del segundo modulo del curso de Adalab.
+Hola! Está es mi evaluación intermedia del segundo modulo del curso de Adalab 👋
 
 General 💻:
 
