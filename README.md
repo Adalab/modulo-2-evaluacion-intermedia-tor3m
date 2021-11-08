@@ -18,7 +18,7 @@ Agradecimientos 🥰
 
 A Iván, Dayana, Yanelis y Miguel por no dejarnos caer en este nuevo reto y enseñarnos a enfrentar todos los proyectos con determinación y con todos los recursos aprendidos.
 
-"Enseñar no es transferir conocimiento, sino crear las posibilidades para su producción o su construcción. Quien enseña aprende y quien enseña aprende a aprender" Paulo Freire.
+"Enseñar no es transferir conocimiento, sino crear las posibilidades para su producción o su construcción" Paulo Freire.
 
 Dudas o sugerencias 📫
 
