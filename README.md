@@ -19,7 +19,7 @@ number of attempts. Until at the end the player hits the number. Free Design!
 How to run a project? 
 
 	Clone the repository
-      ```git clone https://github.com/tor3m/guess-a-random-number.git```
+      `git clone https://github.com/tor3m/guess-a-random-number.git`
 
 ## 🚀 Demo 
 
