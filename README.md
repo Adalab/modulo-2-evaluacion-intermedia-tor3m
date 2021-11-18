@@ -12,7 +12,7 @@ number of attempts. Until at the end the player hits the number. Free Design!
 - VS Code
 - HTML
 - Javascript
-- css
+- CSS
 
 ## 🛠️ Installation Steps 
 
