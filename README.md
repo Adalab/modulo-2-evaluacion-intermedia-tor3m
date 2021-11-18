@@ -1,25 +1,46 @@
-
+👋 Hi there!
 
 ![guess](https://user-images.githubusercontent.com/81690198/138865782-cca624e6-da55-4b11-91a4-a36313c1aae4.png)
 
-Hola! Está es mi evaluación intermedia del segundo modulo del curso de Adalab 👋
 
-General 💻:
+## Guess a random number App
+The game consists in that the program generates a random number between 1 and 100, and the player has to
+guess it. The game gives clues as to whether the number it tests is too high or too low, and it counts the number
+number of attempts. Until at the end the player hits the number. Free Design!
 
-Usar JavaScript.
+## 💻 Technologies
+- VS Code
+- Javascript
+- css
 
-Arrancar el proyecto 🔨
+## 🛠️ Installation Steps 
 
-He utilizado el Adalab Starter kit. Una herramienta facilitada por Adalab creado en node y gulp. Una plantilla de proyecto con funcionalidades preinstaladas y preconfiguradas. El Kit nos ayuda a trabajar más cómodamente, nos automatiza tareas. Hay 3 tipos de ficheros y carpetas:
+How to run a project? 
 
-Los ficheros que están sueltos en la raíz del repositorio, como gulpfile.js, package.json... Son la configuración del proyecto y no necesitamos modificarlos. La carpeta src/: son los ficheros de mi página web, como HTML, CSS, JS... Las carpetas public/ y docs/ son generadas automáticamente al arrancar el proyecto. El Kit lee los ficheros que hay dentro de src/, los procesa y los genera dentro de public/ y docs/. NOTA: Necesitas descargar el starter kit y tener instalado Node JS para trabajar con este Kit.
+	Clone the repository
+      ```git clone https://github.com/tor3m/guess-a-random-number.git```
 
-Agradecimientos 🥰
+## 🚀 Demo 
 
-A Iván, Dayana, Yanelis y Miguel por no dejarnos caer en este nuevo reto y enseñarnos a enfrentar todos los proyectos con determinación y con todos los recursos aprendidos.
+https://tor3m.github.io/guess-a-random-number/
 
-"Enseñar no es transferir conocimiento, sino crear las posibilidades para su producción o su construcción" Paulo Freire.
+## 👍 Feedback
+Any questions or suggestions? Please feel free to contact me at torres.m3lly@gmail.com 
 
-Dudas o sugerencias 📫
+## 🍰 Contributing
+Please contribute using [GitHub](https://docs.github.com/en/get-started/quickstart/github-flow) Flow. Create a branch, add commits, and open a pull request.
 
-Cualquier duda o sugerencia es bienvenida, no dudes en contactar conmigo a tráves de las issues o de mi correo electrónico torres.m3lly@gmail.com. Gracias.
+
+## 🦸 Autor 
+Contact me!
+
+<p><a href="https://github.com/tor3m" target="blank"><img align="left" src=https://user-images.githubusercontent.com/81690198/142497840-2dc56a9d-1648-42bc-a091-9a8a66bce02f.jpeg alt="tor3m" height="30" width="40" /></a><a href="https://twitter.com/maribeltm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tor3m" height="30" width="40" /></a><a href="https://www.linkedin.com/in/tor3m/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tor3m/" height="30" width="40" /></a></p>
+
+
+## 🤝Acknowledgements 
+
+Many thanks to the Adalab team 💞
+
+## 📝License 
+
+MIT
