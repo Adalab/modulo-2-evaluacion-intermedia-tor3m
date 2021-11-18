@@ -3,7 +3,7 @@
 ![guess](https://user-images.githubusercontent.com/81690198/138865782-cca624e6-da55-4b11-91a4-a36313c1aae4.png)
 
 
-## Guess a random number App
+## Guess a random number!
 The game consists in that the program generates a random number between 1 and 100, and the player has to
 guess it. The game gives clues as to whether the number it tests is too high or too low, and it counts the number
 number of attempts. Until at the end the player hits the number. Free Design!
