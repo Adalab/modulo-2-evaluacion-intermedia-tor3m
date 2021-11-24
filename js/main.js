@@ -3,7 +3,7 @@
 const button = document.querySelector(".js-button");
 const inputValue = document.querySelector(".js-writeNumber");
 const resultElement = document.querySelector(".js-result");
-const tryElement = document.querySelector(".js-try");
+const tryElement = document.querySelector(".js-counter");
 
 //randon number
 function getRandomNumber(max) {
